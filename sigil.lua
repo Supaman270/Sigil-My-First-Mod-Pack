@@ -18,7 +18,7 @@ SMODS.Atlas{
 
 SMODS.Joker{
     key = 'slots',
-    loc_text = {
+    loc_txt = {
         name = 'Slot Machine',
         text = {
             "Gives {C:money}$#1# {} per {C:attention}7 {} scored",
